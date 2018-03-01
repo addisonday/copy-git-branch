@@ -2,7 +2,7 @@
 Stop using your mouse to get your branch name.
 
 1.  Clone the repository.
-`url`
+`git clone https://github.com/addisonday/copy-git-branch.git`
 2.  Make the the script executable.
 `chmod +x cbr.sh`
 3.  Use the following commands to make the script globally executable.
